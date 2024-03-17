@@ -39,8 +39,11 @@ Responsive Design: Enjoy a seamless browsing experience across various devices, 
 ### Technology Stack:
 
 Frontend: React.js, React Router, Redux (optional for state management), HTML5, CSS3, JavaScript ES6+
+
 Backend: Node.js (Express.js for RESTful APIs), MongoDB (or another database for storing event data), RESTful APIs for communication between frontend and backend
+
 Authentication: JSON Web Tokens (JWT) for user authentication and authorization
+
 Deployment: Host frontend on platforms like Netlify or Vercel, backend on platforms like Heroku or AWS
 
 <img src="t1.PNG" alt="Weather" width="100%">
