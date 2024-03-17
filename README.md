@@ -2,14 +2,14 @@
 
 Eventify is a modern event management website built using React.js. It provides users with a platform to discover, explore, and attend various events happening in their area or globally. Eventify offers a user-friendly interface, intuitive navigation, and robust features to enhance the event browsing and booking experience.
 
-Click here for a <a target="_blank" href=""> DEMO </a>
+Click here for a <a target="_blank" href="https://shashank-eventify-react.onrender.com"> DEMO </a>
 
 ## Setup
 
 Clone the repository
 
 ```
-$ git clone
+$ git clone https://github.com/shashankhl/Eventify.git
 ```
 
 ```
