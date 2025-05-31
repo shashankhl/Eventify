@@ -34,7 +34,7 @@ export default EventDetailPage;
 
 async function loadEvent(id) {
   const response = await fetch(
-    "https://shl-eventify-backend.onrender.com" + id
+    "https://shl-eventify-backend.onrender.com/events/" + id
   );
 
   if (!response.ok) {
